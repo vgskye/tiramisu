@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "adhoc")(type "KiCad")(uri "${KIPRJMOD}/adhoc.pretty")(options "")(descr ""))
+)
