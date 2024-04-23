@@ -6499,7 +6499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "adhoc:MountingHole_1.8mm_M1.6"
+		(property "Footprint" "adhoc:MountingHole_1.7mm_M1.6"
 			(at 157.48 151.13 0)
 			(effects
 				(font
@@ -7459,7 +7459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "adhoc:MountingHole_1.8mm_M1.6"
+		(property "Footprint" "adhoc:MountingHole_1.7mm_M1.6"
 			(at 157.48 146.05 0)
 			(effects
 				(font
@@ -10182,7 +10182,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "adhoc:MountingHole_1.8mm_M1.6"
+		(property "Footprint" "adhoc:MountingHole_1.7mm_M1.6"
 			(at 157.48 156.21 0)
 			(effects
 				(font

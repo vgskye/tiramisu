@@ -1,4 +1,4 @@
-(footprint "MountingHole_1.8mm_M1.6"
+(footprint "MountingHole_1.7mm_M1.6"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "MountingHole_1.8mm_M1.6"
+	(property "Value" "MountingHole_1.7mm_M1.6"
 		(at 0 3.2 0)
 		(layer "F.Fab")
 		(uuid "4f444c01-63b0-4f6e-b768-0e7008ac9efa")
@@ -99,9 +99,9 @@
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0)
-		(size 1.8 1.8)
-		(drill 1.8)
-		(layers "F&B.Cu" "*.Mask")
+		(size 1.7 1.7)
+		(drill 1.7)
+		(layers "F&B.Cu" "*.Paste" "*.Mask")
 		(uuid "75b224f0-3010-4e8c-bf32-f95a770c96d9")
 	)
 )
